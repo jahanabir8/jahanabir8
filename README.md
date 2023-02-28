@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
-- 📫 How to reach me **onupomabir@gmail.com**
+- 📫 How to reach me **jahanabir886@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
