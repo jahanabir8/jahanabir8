@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate MARN Stack Web Developer from Bangladesh</h3>
 <img align ="right" alit="coding" width:"400" src="./GitHub Banner .png">
 
-<p align="left"> hellos <img src="https://komarev.com/ghpvc/?username=jahanabir8&label=Profile%20views&color=0e75b6&style=flat" alt="jahanabir8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanabir8&label=Profile%20views&color=0e75b6&style=flat" alt="jahanabir8" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on **LMS**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
-- 📫 How to reach me **onupomabir@gmail.com**
+- 📫 How to reach me **jahanabir886@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
