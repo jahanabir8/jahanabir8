@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align ="right" alit="coding" width:"400" src="https://camo.githubusercontent.com/e87f7dd8b6aaf5063ba39297107b490f5d8f6ce77107ef90d35d825f22c49915/68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966">
+<img align ="right" alit="coding" width:"400" src="./GitHub Banner .png>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanabir8&label=Profile%20views&color=0e75b6&style=flat" alt="jahanabir8" /> </p>
 
@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **js**
 
-- 📝 I regularly write articles on [blog.opediatech.com](blog.opediatech.com)
+- 📝 I regularly write articles on [https://abir-developer.netlify.app/](https://abir-developer.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
-- 📫 How to reach me **jahanabir886@gmail.com**
+- 📫 How to reach me **onupomabir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
