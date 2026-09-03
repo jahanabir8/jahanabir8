@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Passionate MARN Stack Web Developer from Bangladesh</h3>
 <img align ="right" alit="coding" width:"400" src="./GitHub Banner .png">
 
 <p align="left"> hellos <img src="https://komarev.com/ghpvc/?username=jahanabir8&label=Profile%20views&color=0e75b6&style=flat" alt="jahanabir8" /> </p>
